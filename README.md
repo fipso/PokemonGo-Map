@@ -2,7 +2,7 @@
 
 Trying to fix issues and improve code
 
->> All changes made on branch 'develop'
+ All changes made on branch 'develop'
 
 # PokemonGo Map
 
